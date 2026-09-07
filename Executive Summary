@@ -1,0 +1,3 @@
+This penetration testing report details the authorized, educational security assessment of the Mediroza General Hospital web application. Conducted as part of Week 4 of the NetworkWalks Penetration Testing Internship, the engagement was performed with full permission and within a controlled, educational environment.
+The assessment revealed that the hospital's web application is hosted on a shared environment with certain misconfigurations and that the application’s login mechanisms could be tested for username enumeration vulnerabilities.
+No actual exploitation or unauthorized access was conducted beyond simulation, and all activities were carried out under an approved, ethical learning framework.
