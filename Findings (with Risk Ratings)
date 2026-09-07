@@ -1,0 +1,4 @@
+Finding 1: Username Enumeration
+Risk: Medium By analyzing the login process with Burp Suite, it was observed that the system verifies the username before the password. This allowed for controlled, ethical testing of usernames, ultimately identifying a valid username.
+Finding 2: Shared Hosting Environment Risk: Low to Medium The application is hosted on a shared server. While this does not constitute a direct vulnerability, it may increase the potential attack surface if neighboring websites are compromised.
+Finding 3: Input Validation and SQL Injection Simulation Risk: Medium A controlled simulation of SQL injection was conducted to assess input validation. The login form allows for certain SQL syntax under test conditions, as part of the learning exercise, and this was reported for remediation.
