@@ -1,0 +1,10 @@
+Scope:
+• Target: www.medirozahospital.com
+•	IP: 199.188.201.16
+•	Engagement Type: Black-box, educational
+•	Duration: Two Days 
+•	Restrictions: No real exploitation, no unauthorized data access.
+Methodology:
+•	Initial reconnaissance using passive and active scanning tools.
+•	Analysis of authentication mechanisms with simulated username enumeration.
+•	Use of Burp Suite Intruder to understand input validation logic.
