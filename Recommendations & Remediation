@@ -1,0 +1,3 @@
+•	Username Enumeration: Implement generic error messages to avoid revealing whether the username or password is incorrect.
+•	Shared Hosting: Consider dedicated hosting for critical applications to reduce potential risks from neighboring sites.
+•	SQL Injection Protection: Use prepared statements or parameterized queries to prevent SQL injection.
