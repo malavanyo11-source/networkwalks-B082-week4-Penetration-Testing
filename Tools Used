@@ -1,0 +1,4 @@
+•	Nmap/Zenmap: For port scanning and service enumeration.
+•	DNSRecon: For DNS enumeration and identifying misconfigurations.
+•	Burp Suite: For intercepting and analyzing authentication requests (used in a controlled and ethical manner).
+•	Metasploit (HTTP version module): For identifying web server version.
